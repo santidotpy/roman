@@ -56,7 +56,8 @@ def check_four_consecutive(roman):
      return False
 
 
-# if __name__ == "__main__":
+if __name__ == "__main__":
+     pass
 #     print(romanToDecimal('XXXX'))
 #     number = 3999
-#     print(intToRoman(number))
+#     print(decimalToRoman(number))
